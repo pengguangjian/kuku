@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'kuku_Example' do
+  pod 'kuku', :path => '../'
+
+  target 'kuku_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
