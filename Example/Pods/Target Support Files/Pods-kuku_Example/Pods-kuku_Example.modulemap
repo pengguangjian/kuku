@@ -1,0 +1,6 @@
+framework module Pods_kuku_Example {
+  umbrella header "Pods-kuku_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - kuku (0.1.0)
+
+DEPENDENCIES:
+  - kuku (from `../`)
+
+EXTERNAL SOURCES:
+  kuku:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  kuku: b0ab8d150c81c6d0d28df52eb5c2707aedd35664
+
+PODFILE CHECKSUM: ed17c9143771913c17f3a81a74adcb90ee2c64e3
+
+COCOAPODS: 1.9.3

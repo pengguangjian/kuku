@@ -1,0 +1,6 @@
+framework module kuku {
+  umbrella header "kuku-umbrella.h"
+
+  export *
+  module * { export * }
+}
